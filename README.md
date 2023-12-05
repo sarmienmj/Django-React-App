@@ -1,0 +1,2 @@
+Django + Next.js Project
+************************
